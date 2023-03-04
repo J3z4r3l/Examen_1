@@ -1,2 +1,2 @@
 # Examen_1
-Agregue archivos .xml donde vienen los resultados del reporte
+Agregue archivos .mxl donde vienen los resultados del reporte
